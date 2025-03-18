@@ -6,13 +6,13 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Jaebeom Jeon
+title: Computer architecture and  system software engineer
+email: 414dragon@korea.ac.kr
+website: https://github.com/JaeBeom-Jeon
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
