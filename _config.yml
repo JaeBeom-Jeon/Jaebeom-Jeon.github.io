@@ -79,7 +79,9 @@ content:
         sub_title: 2024
         description: | # this will include new lines to allow paragraphs
           VitBit: Enhancing Embedded GPU Performance for AI Workloads through Register Operand Packing
+
           <mark>Jaebeom Jeon</mark>, Minseong Gil, Junsu Kim, Jaeyong Park, Gunjae Koo, Myung Kuk Yoon, Yunho Oh
+          
           https://dl.acm.org/doi/abs/10.1145/3673038.3673045
 
       - layout: top-middle
