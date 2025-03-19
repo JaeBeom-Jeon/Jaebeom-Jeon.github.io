@@ -74,19 +74,15 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
-        title: "VitBit: Enhancing Embedded GPU Performance for AI Workloads through Register Operand Packing"
-        link: https://dl.acm.org/doi/abs/10.1145/3673038.3673045
-        # link_text: boringcompany.com
-        sub_title: ICPP'24
-        sub_title: <mark>Jaebeom Jeon</mark>, Minseong Gil, Junsu Kim, Jaeyong Park, Gunjae Koo, Myung Kuk Yoon, Yunho Oh
-        caption: 2024
-        # quote: >
-        #   This paper proposes a 3D-stacked memory system that combines a Hybrid Memory Cube (HMC) and High-Bandwidth Memory (HBM) to improve the performance of memory-intensive applications.
-        # description: | # this will include new lines to allow paragraphs
-        #     This paper proposes a 3D-stacked memory system that combines a Hybrid Memory Cube (HMC) and High-Bandwidth Memory (HBM) to improve the performance of memory-intensive applications. The proposed system is designed to exploit the advantages of both HMC and HBM, which have different characteristics in terms of bandwidth, latency, and energy consumption. The proposed system is evaluated using a cycle-accurate simulator, and the results show that the proposed system can improve the performance of memory-intensive applications by up to 1.5x compared to a system that uses only HMC or HBM.
+      - layout: left
+        title: "ICPP"
+        sub_title: 2024
+        description: | # this will include new lines to allow paragraphs
+          VitBit: Enhancing Embedded GPU Performance for AI Workloads through Register Operand Packing
+          <mark>Jaebeom Jeon</mark>, Minseong Gil, Junsu Kim, Jaeyong Park, Gunjae Koo, Myung Kuk Yoon, Yunho Oh
+          https://dl.acm.org/doi/abs/10.1145/3673038.3673045
 
-      - layout: top-left
+      - layout: top-middle
         title: "TLP Balancer: Predictive Thread Allocation for Multi-Tenant Inference in Embedded GPUs"
         link: https://ieeexplore.ieee.org/abstract/document/10753458
         # link_text: boringcompany.com
@@ -98,7 +94,7 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #     This paper proposes a 3D-stacked memory system that combines a Hybrid Memory Cube (HMC) and High-Bandwidth Memory (HBM) to improve the performance of memory-intensive applications. The proposed system is designed to exploit the advantages of both HMC and HBM, which have different characteristics in terms of bandwidth, latency, and energy consumption. The proposed system is evaluated using a cycle-accurate simulator, and the results show that the proposed system can improve the performance of memory-intensive applications by up to 1
       
-      - layout: top-left
+      - layout: top-middle
         title: "Adaptive Kernel Merge and Fusion for Multi-Tenant Inference in Embedded GPUs"
         link: https://ieeexplore.ieee.org/abstract/document/10384636
         # link_text: boringcompany.com
