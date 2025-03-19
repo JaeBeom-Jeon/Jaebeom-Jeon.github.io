@@ -74,7 +74,7 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: top-left
         title: "VitBit: Enhancing Embedded GPU Performance for AI Workloads through Register Operand Packing"
         link: https://dl.acm.org/doi/abs/10.1145/3673038.3673045
         # link_text: boringcompany.com
@@ -86,7 +86,7 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #     This paper proposes a 3D-stacked memory system that combines a Hybrid Memory Cube (HMC) and High-Bandwidth Memory (HBM) to improve the performance of memory-intensive applications. The proposed system is designed to exploit the advantages of both HMC and HBM, which have different characteristics in terms of bandwidth, latency, and energy consumption. The proposed system is evaluated using a cycle-accurate simulator, and the results show that the proposed system can improve the performance of memory-intensive applications by up to 1.5x compared to a system that uses only HMC or HBM.
 
-      - layout: top-middle
+      - layout: top-left
         title: "TLP Balancer: Predictive Thread Allocation for Multi-Tenant Inference in Embedded GPUs"
         link: https://ieeexplore.ieee.org/abstract/document/10753458
         # link_text: boringcompany.com
@@ -98,7 +98,7 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #     This paper proposes a 3D-stacked memory system that combines a Hybrid Memory Cube (HMC) and High-Bandwidth Memory (HBM) to improve the performance of memory-intensive applications. The proposed system is designed to exploit the advantages of both HMC and HBM, which have different characteristics in terms of bandwidth, latency, and energy consumption. The proposed system is evaluated using a cycle-accurate simulator, and the results show that the proposed system can improve the performance of memory-intensive applications by up to 1
       
-      - layout: top-middle
+      - layout: top-left
         title: "Adaptive Kernel Merge and Fusion for Multi-Tenant Inference in Embedded GPUs"
         link: https://ieeexplore.ieee.org/abstract/document/10384636
         # link_text: boringcompany.com
