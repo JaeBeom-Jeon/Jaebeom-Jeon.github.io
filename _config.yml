@@ -90,7 +90,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Kubism: Disassembling and Reassembling K-Means Clustering for Mobile Heterogeneous Platforms
 
-          Seondeok Kim, Sangun Choi, <mark>Jaebeom Jeon</mark, Junsu Kim, Minseong Gil, Jaehyeok Ryu, Yunho Oh
+          Seondeok Kim, Sangun Choi, <mark>Jaebeom Jeon</mark>, Junsu Kim, Minseong Gil, Jaehyeok Ryu, Yunho Oh
 
           https://dl.acm.org/doi/abs/10.1145/3735452.3735537
 
@@ -100,7 +100,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           MOST: Memory Oversubscription-aware Scheduling for Tensor Migration on GPU Unified Storage
 
-          Junsu Kim, Jaebeom Jeon, Jaeyong Park, Sangun Choi, Minseong Gil, Seokin Hong, Gunjae Koo, Myung Kuk Yoon, Yunho Oh
+          Junsu Kim, <mark>Jaebeom Jeon</mark>, Jaeyong Park, Sangun Choi, Minseong Gil, Seokin Hong, Gunjae Koo, Myung Kuk Yoon, Yunho Oh
 
           https://ieeexplore.ieee.org/abstract/document/11038933
       - layout: left
