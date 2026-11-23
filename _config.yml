@@ -50,6 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Jaebeom Jeon, and I am in the integrated master’s and PH.D program at Korea University’s Department of Electrical and Electronic Engineering. 
   My primary research areas are computer architecture and system software, with a particular focus on GPU architecture.
+  My current research interests include multi-chip module (MCM) GPU architectures and LLM serving systems, aiming to improve inference efficiency on GPU clusters.
 
 content:
   # - title: Publications # Title for the section
