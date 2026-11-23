@@ -1,0 +1,14 @@
+"ICPP":
+  url: https://dl.acm.org/conference/icpp
+  color: "#1f5fa8"
+
+"LCTES":
+  url: https://dl.acm.org/conference/lctes
+  color: "#2e7d32"
+
+"ESL":
+  color: "#b45309"
+
+"CAL":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10208
+  color: "#7c3aed"
